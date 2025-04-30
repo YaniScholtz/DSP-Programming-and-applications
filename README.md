@@ -35,7 +35,5 @@ The project performs a **Fast Fourier Transform (FFT)** on ADC signals sampled b
 - `Core/Src/main.c` — Main application code (ADC sampling, FFT, LCD drawing).
 - `Core/Inc/main.h` — (Optional) Header file for application prototypes.
 
-## Acknowledgements
 
-Developed for the **Computer Engineering: Architecture and Systems** course practicals.
 
